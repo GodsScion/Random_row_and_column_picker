@@ -2,7 +2,8 @@
 """
 Created on Fri Sep  3 14:51:36 2021
 
-@author: saivign
+@author: Sai Vignesh Golla
+github: https://github.com/GodsScion/Random_row_and_column_picker.git
     
 """
 
